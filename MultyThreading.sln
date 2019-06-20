@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultyThreading", "MultyThreading\MultyThreading.csproj", "{9CF4AFCC-5433-49B2-8180-638F2D70531C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultyThreading_2", "MultyThreading_2\MultyThreading_2.csproj", "{0DC4DA0B-58C0-4EAA-A986-434A2B788CBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9CF4AFCC-5433-49B2-8180-638F2D70531C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CF4AFCC-5433-49B2-8180-638F2D70531C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CF4AFCC-5433-49B2-8180-638F2D70531C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC4DA0B-58C0-4EAA-A986-434A2B788CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC4DA0B-58C0-4EAA-A986-434A2B788CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC4DA0B-58C0-4EAA-A986-434A2B788CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC4DA0B-58C0-4EAA-A986-434A2B788CBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
